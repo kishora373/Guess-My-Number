@@ -1,0 +1,1 @@
+Guess My Number project is a fun, interactive web game built using HTML, CSS, and JavaScript with DOM manipulation. In this game, the user has to guess a randomly generated secret number within a specified range. The user enters their guess in a provided input box, and the game provides feedback on whether the guess is too high, too low, or correct
